@@ -1,0 +1,13 @@
+{
+  "products": [
+    {
+      "id": "3369",
+      "name": "sweet shirt",
+      "image": "https://placehold.co/400x400",
+      "brand": "nike",
+      "price": "10000",
+      "category": "t-shirt",
+      "gender": "male"
+    }
+  ]
+}

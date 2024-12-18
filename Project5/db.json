@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "id": 11,
+      "name": "boots",
+      "image": "http://dummyimage.com/219x100.png/5fa2dd/ffffff",
+      "brand": "Levi's",
+      "price": "1000000000",
+      "category": "shoes",
+      "gender": "kid"
+    },
+    {
+      "id": 12,
+      "name": "sneakers",
+      "image": "http://dummyimage.com/240x100.png/ff4444/ffffff",
+      "brand": "Forever 21",
+      "price": "93457878788",
+      "category": "t-shirt",
+      "gender": "kid"
+    },
+    {
+      "id": 13,
+      "name": "hoodie",
+      "image": "http://dummyimage.com/225x100.png/cc0000/ffffff",
+      "brand": "H&M",
+      "price": 7024,
+      "category": "t-shirt",
+      "gender": "male"
+    },
+    {
+      "id": 15,
+      "name": "skirt",
+      "image": "http://dummyimage.com/231x100.png/cc0000/ffffff",
+      "brand": "Adidas",
+      "price": 9830,
+      "category": "jeans",
+      "gender": "male"
+    },
+    {
+      "id": 16,
+      "name": "sneakers",
+      "image": "http://dummyimage.com/179x100.png/5fa2dd/ffffff",
+      "brand": "H&M",
+      "price": 5214,
+      "category": "t-shirt",
+      "gender": "male"
+    },
+    {
+      "id": 17,
+      "name": "jeans",
+      "image": "http://dummyimage.com/151x100.png/cc0000/ffffff",
+      "brand": "Adidas",
+      "price": 6977,
+      "category": "shoes",
+      "gender": "male"
+    },
+    {
+      "id": 18,
+      "name": "blouse",
+      "image": "http://dummyimage.com/122x100.png/dddddd/000000",
+      "brand": "Nike",
+      "price": 4715,
+      "category": "shoes",
+      "gender": "male"
+    },
+    {
+      "id": 19,
+      "name": "dress",
+      "image": "http://dummyimage.com/178x100.png/ff4444/ffffff",
+      "brand": "Nike",
+      "price": 6692,
+      "category": "jeans",
+      "gender": "female"
+    }
+  ]
+}

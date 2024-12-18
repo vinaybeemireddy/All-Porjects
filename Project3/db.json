@@ -1,0 +1,31 @@
+{
+  "products": [
+    {
+      "id": "3369",
+      "name": "sweet shirt",
+      "image": "https://placehold.co/400x400",
+      "brand": "nike",
+      "price": "10000",
+      "category": "t-shirt",
+      "gender": "male"
+    },
+    {
+      "id": "c420",
+      "name": "shoes",
+      "image": "https://placehold.co/400x400",
+      "brand": "nike",
+      "price": "2000",
+      "category": "shoes",
+      "gender": "kid"
+    },
+    {
+      "id": "8e36",
+      "name": "shirt",
+      "image": "https://placehold.co/400x400",
+      "brand": "puma",
+      "price": 4000,
+      "category": "t-shirt",
+      "gender": "male"
+    }
+  ]
+}
